@@ -1,0 +1,19 @@
+name: traffic_sign_classification
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.10
+  - pip
+  - numpy
+  - pandas
+  - matplotlib
+  - scikit-learn
+  - opencv
+  - seaborn
+  - jupyterlab
+  - pillow
+  - pip:
+      - tensorflow==2.12
+      - keras==2.12
+      - gradio

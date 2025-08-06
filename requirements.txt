@@ -1,0 +1,10 @@
+tensorflow==2.12
+keras==2.12
+gradio>=3.0
+numpy>=1.23
+pandas>=1.5
+matplotlib>=3.5
+scikit-learn>=1.1
+opencv-python>=4.6
+seaborn>=0.12
+pillow>=9.0
